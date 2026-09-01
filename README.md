@@ -63,4 +63,8 @@ Visualizations Included:
 
 Dashboard Link:https://public.tableau.com/app/profile/aakanksha.sah1579/viz/EVDataAnalysis_17786665411720/Dashboard1
 
-Created by: AAKANKSHA SAH
+```
+👤 Author
+  Tableau Public: https://public.tableau.com/app/profile/aakanksha.sah06
+  GitHub: @your-username
+  LinkedIn: https://www.linkedin.com/in/aakanksha-sah-731b24271
