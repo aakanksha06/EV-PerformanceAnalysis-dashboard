@@ -21,12 +21,10 @@ The dashboard tracks key performance indicators (KPIs) and provides actionable i
 
 📊 Dashboard Highlights & Metrics
 
-| Metric / KPI | Description |
-
-**Total Vehicles** - Total volume of registered electric vehicles in the dataset
-**Average Electric Range** - Average distance (in miles/km) vehicles can travel on pure electric charge
-**BEV vs. PHEV Share** - Percentage and count breakdown by powertrain technology
-**CAFV Eligibility** - Classification based on clean fuel incentives and tax rebate compliance
+- **Total Vehicles** - Total volume of registered electric vehicles in the dataset
+- **Average Electric Range** - Average distance (in miles/km) vehicles can travel on pure electric charge
+- **BEV vs. PHEV Share** - Percentage and count breakdown by powertrain technology
+- **CAFV Eligibility** - Classification based on clean fuel incentives and tax rebate compliance
 
 
 Visualizations Included:
@@ -59,8 +57,10 @@ Visualizations Included:
 
 ```text
 ├── README.md                  # Project documentation
-├── data/                      # Dataset files or source links
-├── assets/                    # Dashboard screenshots / demo GIFs
-└── workbook/                  # Tableau workbook (.twbx) file
+├── dataset/                      # Dataset files or source links
+├── asset/                    # Dashboard screenshots / demo GIFs
+└── EV Data Analysis.twb/                  # Tableau workbook (.twbx) file
 
-Dashboard Link:
+Dashboard Link:https://public.tableau.com/app/profile/aakanksha.sah1579/viz/EVDataAnalysis_17786665411720/Dashboard1
+
+Created by: AAKANKSHA SAH
